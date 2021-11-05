@@ -1,0 +1,159 @@
+*{    /*changes properties of whole page at once*/
+    margin: 0;
+    margin-left: 0%;
+}
+
+ul{/*for the picture in place of dots for lists*/
+    list-style: none; /*disables the dots first*/
+    list-style-image: url('photos/car.png');/*inserts the picture*/
+}
+body {
+    background: linear-gradient(-45deg,#7AD7F0,#92DFF3,#B7E9F7, #DBF3FA);
+    background-size: 3% 4500%;/*size of the moving gradient border*/
+    animation: gradient 7s ease 1;
+    animation-fill-mode: forwards;
+    background-repeat: no-repeat;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;/*position moved from 0 to 50%*/
+        background-size: 3%;
+	}
+	50% {
+		background-position: 100% 50%;/*position moved from 50 to 100%*/
+        background-size: 45%;
+	}
+	100% {
+		background-position: 0% 50%;/*position moved from 0 to 50%*/
+        background-size: 3%;
+	}
+}
+img{    /*apply to all images in the page*/
+    width: 17vw;
+    height: 16vw;
+    border-radius: 200px;
+    position: absolute;     /*to make the image move anywhere in its block*/
+    animation: slide 3s 1;
+    animation-fill-mode: forwards;
+}
+@keyframes slide{
+    0%{margin-left: -30%;border-radius: 200px; opacity: 0;}
+    100%{ border-radius: px;opacity:1 ;}
+}
+.navbar{         /*for navbar section*/
+    background: linear-gradient(-45deg,#7AD7F0,#92DFF3,#B7E9F7, #DBF3FA);
+    height: 45px;
+    width: 100%;        /*fullscreen*/
+   
+  }
+  .navbar a{        /*for links in navbar*/
+  border: 2px solid black;
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: px;
+  padding-bottom: 4px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;        /*to remove underlines for links*/
+  color: black;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.navbar h1{     /*for headings iin navbar*/
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 40%;
+  }
+  .navbar a:hover{
+    color: white;
+    background-color: lightcoral;
+  }
+  .nav-elements{        /*for the logo and links*/
+   display: inline-block; 
+  }
+
+  .heading{
+    margin-left: 5%;
+    margin-top: 2%;
+    line-height: 0.85;        /*space between lines*/
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+}
+.container{
+    margin-top: 3%;
+    margin-left: 5%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+h2{     /*for all the headings in the page*/
+    margin-top: 4%;
+}
+p{      /*for all the paragraphs in the page*/
+    width: 58%;     /*for the width of the paragraph*/
+    line-height: 1.9;
+}
+.sequoia{       /*for content under sequoia class*/
+    display: inline-block;
+}
+#s img{         /*for image in id s*/
+    margin-top: -1%;
+    margin-left: 4%;
+}
+.yellowstone{
+    display: inline-block;
+}
+#y img{
+    margin-top: -1%;
+    margin-left: 20%;
+}
+.Yosemite{
+    display: inline-block;
+}
+#yo img{
+    margin-top: -2%;
+    margin-left: 4%;
+}
+.grand{
+    display: inline-block;
+}
+#g img{
+    margin-left: 20%;
+}
+.arches{
+    display: inline-block;
+}
+#a img{
+    margin-top: -2%;
+    margin-left: 4%;
+}
+.zion{
+    display: inline-block;
+}
+#z img{
+    margin-top: -1%;
+    margin-left: 20%;
+}
+.glacier{
+    display: inline-block;
+}
+#gl img{
+    margin-top: -2%;
+    margin-left: 4%;
+}
+.acadia{
+    display: inline-block;
+}
+#ac img{
+    margin-top: -2%;
+    margin-left: 20%;
+}
+.great{
+    display: inline-block;
+}
+#gr img{
+    margin-top: -1%;
+    margin-left: 4%;
+}
+.everglades{
+    display: inline-block;
+}
+#e img{
+    margin-top: -3%;
+    margin-left: 20%;
+}

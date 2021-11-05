@@ -1,0 +1,554 @@
+@media (min-width:200px) and (max-width:400px){
+   
+    p{
+        margin-left: 5%;
+        margin-top: 55%;
+        width: 90%;
+        font-size:14px;
+    }
+    #aniruddha{
+        border: 2px solid black;
+        margin-top: 15%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .aniruddha-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #jayanth{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .jayanth-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #meghana{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .meghana-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #sanjay{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .sanjay-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #tharun{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .tarun-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #vyshnavi{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .vyshnavi-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #harish{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .harish-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+}
+@media (min-width:401px) and (max-width:500px){
+    .navbar{
+        margin-top: -15%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .navbar h1{
+        margin-left: 22%;
+    }
+    p{
+        margin-left: 5%;
+        margin-top: 55%;
+        width: 95%;
+        font-size:14px;
+    }
+    #aniruddha{
+        border: 2px solid black;
+        margin-top: 15%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .aniruddha-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #jayanth{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .jayanth-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #meghana{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .meghana-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #sanjay{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .sanjay-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #tharun{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .tarun-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #vyshnavi{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .vyshnavi-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+    #harish{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 350px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .harish-picture{
+        width: 38vw;
+        height: 40vw;
+        margin-left: 20%;
+    }
+}
+@media (min-width:501px) and (max-width:700px){
+    .navbar{
+        margin-top: -15%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .navbar h1{
+        margin-left: 25%;
+    }
+    p{
+        margin-left: 5%;
+        margin-top: 10%;
+        width: 55%;
+        font-size:14px;
+    }
+    #aniruddha{
+        border: 2px solid black;
+        margin-top: 15%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .aniruddha-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #jayanth{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .jayanth-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #meghana{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .meghana-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #sanjay{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .sanjay-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #tharun{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .tarun-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #vyshnavi{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .vyshnavi-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+    #harish{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .harish-picture{
+        width: 28vw;
+        height: 30vw;
+        margin-left: 50%;
+        margin-top: 5%;
+    }
+}
+@media (min-width:701px) and (max-width:900px){
+    .navbar{
+        margin-top: -15%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .navbar h1{
+        margin-left: 32%;
+    }
+    p{
+        margin-left: 5%;
+        margin-top: 10%;
+        width: 55%;
+        font-size:16px;
+    }
+    #aniruddha{
+        border: 2px solid black;
+        margin-top: 15%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .aniruddha-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #jayanth{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .jayanth-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #meghana{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .meghana-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #sanjay{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .sanjay-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #tharun{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .tarun-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #vyshnavi{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .vyshnavi-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+    #harish{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .harish-picture{
+        width: 25vw;
+        height: 28vw;
+        margin-left: 50%;
+        margin-top: 3%;
+    }
+
+}
+@media (min-width:901px) and (max-width:1200px){
+    .navbar{
+        margin-top: -10%;
+        margin-left: 0%;
+        width: 100%;
+    }
+    .navbar h1{
+        margin-left: 32%;
+    }
+    p{
+        margin-left: 5%;
+        margin-top: 10%;
+        width: 55%;
+        font-size:16px;
+    }
+    #aniruddha{
+        border: 2px solid black;
+        margin-top: 10%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .aniruddha-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #jayanth{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .jayanth-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #meghana{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .meghana-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #sanjay{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .sanjay-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #tharun{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .tarun-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #vyshnavi{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .vyshnavi-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+    #harish{
+        border: 2px solid black;
+        margin-top: 5%;
+        width: 80%;
+        height: 300px;
+        margin-left: 10%;
+        margin-bottom: 1%;
+    }
+    .harish-picture{
+        width: 20vw;
+        height: 22vw;
+        margin-left: 52%;
+        margin-top: 1.5%;
+    }
+
+}
+@media (min-width:1201px) and (max-width:1600px){
+
+}

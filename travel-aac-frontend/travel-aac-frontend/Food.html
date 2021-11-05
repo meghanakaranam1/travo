@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Travo | Destination Guide</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    function fun()
+{
+    var x = document.getElementById("food").value;
+    fetch(`https://www.themealdb.com/api/json/v1/1/filter.php?a=${x}`).then( (data)=>{return data.json();}).then( (newdata)=> {document.getElementById("new").innerHTML = newdata.meals[0].strMeal+"<br>"+newdata.meals[1].strMeal+"<br>"+newdata.meals[2].strMeal+"<br>"+newdata.meals[3].strMeal+"<br>"+newdata.meals[4].strMeal;}).catch( (err) =>{console.log(err);});
+}
+    </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body  style="background-image: url(fo.jpg);background-position: center;background-repeat: no-repeat;background-size: cover;height: 460px;width: 100%;">
+    <div class="container">
+        <div class="row" style="padding-top: 20px;">
+          <div class="col-xs-6 text-center bg-info" style="padding: 10px;display: flex;justify-content: space-around;">
+            <input id="food" placeholder="Cuisine" >
+          </div>
+          <div class="col-xs-6 text-left bg-info" style="padding: 10px;display: flex;justify-content: space-around;">
+            <button onclick="fun()" >Click me</button>
+          </div>
+        </div><br><br><br><br>
+        <div class="row bg-success" style="padding-top: 50px; ">
+          <div class="col-xs-12 text-center">
+            <p  id ="new" ></p>
+          </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
+
+
+

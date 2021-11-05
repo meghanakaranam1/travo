@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    margin-left: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#aniruddha{
+    border: 2px solid black;
+    margin-top: 5%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.aniruddha-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+p{
+    margin-left: 35%; 
+    margin-top: 5%;
+}
+#aniruddha:hover{
+    box-shadow: 0 0 20px grey;
+}
+#jayanth{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.jayanth-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+#jayanth:hover{
+    box-shadow: 0 0 20px grey;
+}
+#meghana{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.meghana-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+#meghana:hover{
+    box-shadow: 0 0 20px grey;
+}
+#sanjay{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.sanjay-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+#sanjay:hover{
+    box-shadow: 0 0 20px grey;
+}
+
+#tharun{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.tarun-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+
+}
+#vyshnavi{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.vyshnavi-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+#vyshnavi:hover{
+    box-shadow: 0 0 20px grey;
+}
+#harish{
+    border: 2px solid black;
+    margin-top: 1%;
+    width: 60%;
+    height: 15vw;
+    margin-left: 15%;
+    margin-bottom: 1%;
+}
+.harish-picture{
+    width: 12vw;
+    height: 13vw;
+    position: absolute;
+    margin-left: 2%;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+#harish:hover{
+    box-shadow: 0 0 20px grey;
+}

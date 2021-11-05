@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  /* padding: 0; */
+}
+.navbar {
+  background-color: rgb(1, 1, 65);
+  height: 45px;
+  width: 100%;
+  position: relative;
+  z-index: 999;
+}
+.navbar a {
+  border: 2px solid rgb(1, 1, 65);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: px;
+  padding-bottom: 4px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+  color: azure;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+.navbar h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 0%;
+}
+.navbar a:hover {
+  color: white;
+  transition-duration: 1s;
+  transform: scale(1.1);
+}
+.nav-elements {
+  display: inline-block;
+  text-align: center;
+  padding-left: 470px;
+  color: azure;
+}
+h1 {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: left;
+  letter-spacing: 2px;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 35px;
+  font-weight: 1px;
+}
+
+/* scroll-area:nth-of-type(1) {
+  background-color: rgb(1, 1, 66);
+  color: oldlace;
+  height: ;
+} */
+.scroll-area1,
+.scroll-area3,
+.scroll-area5,
+.scroll-area7,
+.scroll-area9 {
+  box-sizing: border-box;
+  background-color: rgb(1, 1, 65);
+  padding: 20px;
+  color: white;
+}
+.scroll-area2,
+.scroll-area4,
+.scroll-area6,
+.scroll-area8 {
+  box-sizing: border-box;
+  background-color: rgb(207, 204, 204);
+  padding: 20px;
+  color: rgb(0, 0, 0);
+}
+.text-box {
+  display: inline-block;
+  width: 50%;
+}
+.hbox {
+  padding-bottom: 50px;
+  padding-top: 0px;
+}
+.pbox {
+  padding-bottom: 50px;
+  padding-top: 0px;
+}
+#supvideo {
+  display: inline-block;
+  border-radius: 10px;
+}
+a.navy:link,
+a.navy:visited {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: white;
+
+  border: 0px solid rgb(255, 255, 255);
+  border-radius: 3px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+}
+a.navy:hover {
+  transform: scale(1.1);
+  transition-duration: 1s;
+}
+
+a.white:link,
+a.white:visited {
+  color: rgb(1, 1, 65);
+  text-decoration: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: rgba(48, 46, 46, 0.322);
+
+  border: 0px solid rgba(100, 100, 100, 0.322);
+  border-radius: 3px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+}
+a.white:hover {
+  transform: scale(1.1);
+  transition-duration: 1s;
+}
+iframe{
+  margin-left: 10%;
+}
